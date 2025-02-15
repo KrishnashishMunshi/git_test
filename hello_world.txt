@@ -1,0 +1,1 @@
+HI there! This is the github tutorial on odin project.
